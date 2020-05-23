@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "ffCK Overlays",
-    "description": "Right-click any overlay to remove it. Inspired by the Chrome extension \"F*ck Overlays\" (https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp).",
+    "name": "ffCK Iframes",
+    "description": "Right-click any iframe to remove it. Forked from the firefox ffckoverlay extension.",
     "version": "1.0",
-    "homepage_url": "https://github.com/mashedkeyboard/ffckoverlays",
+    "homepage_url": "https://github.com/mrwm/ffckiframes",
 	"icons": {
 		"48": "icons/ext-48.png"
 	},
