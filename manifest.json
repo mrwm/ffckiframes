@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "ffCK Iframes",
-    "description": "Right-click any iframe to remove it. Forked from the firefox ffckoverlay extension.",
+    "description": "Removes the first iframe from the page. Forked from the firefox ffckoverlay extension.",
     "version": "1.0",
     "homepage_url": "https://github.com/mrwm/ffckiframes",
 	"icons": {
